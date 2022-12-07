@@ -4,6 +4,9 @@ Bienvenidos a mi repositorio personal, en él podrán encontrar recursos muy var
 
 Los recursos se están reestructurando por lo que no todo está disponible aún.
 
+---
+## Cursos Licenciatura
+1. [Interfaces Programables](https://github.com/delozath/interfaces_programables)
 
 ---
 ## Latex
