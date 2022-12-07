@@ -5,13 +5,23 @@ Bienvenidos a mi repositorio personal, en él podrán encontrar recursos muy var
 Los recursos se están reestructurando por lo que no todo está disponible aún.
 
 ---
-## Investigación
-## INPer
+## Proyectos de Investigación
+### INPer
+Los repositorios de esta sección son privados, favor de escribir para solicitar información.
+
+**Colaboración**
+1. Procesamiento de los datos y análisis estadístico del artículo [Ultra-Processed Food Consumption during Pregnancy and Its Association with Maternal Oxidative Stress Markers](https://doi.org/10.3390/antiox11071415)
+
 
 ---
 ## Cursos Licenciatura
-1. [Interfaces Programables](https://github.com/delozath/interfaces_programables)
+1. [Secuenciadores y Microprocesadores](https://github.com/delozath/symp) (este repositorio se encuentra en actualización por lo que podría tener cambios futuros)
+    - [MSP430/C]
+    - [ESP32/C]
+    - [ESP32/micropython]
+3. [Interfaces Programables](https://github.com/delozath/interfaces_programables)
     - [ESP32/micropython](https://github.com/delozath/interfaces_programables/tree/main/ESP32/micropython)
+4. [Filtrado Analógico y Digital](https://github.com/delozath/FAyD) (este repositorio se encuentra en actualización por lo que podría tener cambios futuros)
 
 ---
 ## Latex
