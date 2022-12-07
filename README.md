@@ -7,6 +7,7 @@ Los recursos se están reestructurando por lo que no todo está disponible aún.
 ---
 ## Cursos Licenciatura
 1. [Interfaces Programables](https://github.com/delozath/interfaces_programables)
+    - [ESP32/micropython](https://github.com/delozath/interfaces_programables/tree/main/ESP32/micropython)
 
 ---
 ## Latex
