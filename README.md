@@ -19,9 +19,15 @@ Los repositorios de esta sección son privados, favor de escribir para solicitar
     - [MSP430/C]
     - [ESP32/C]
     - [ESP32/micropython]
-3. [Interfaces Programables](https://github.com/delozath/interfaces_programables)
+1. [Interfaces Programables](https://github.com/delozath/interfaces_programables)
     - [ESP32/micropython](https://github.com/delozath/interfaces_programables/tree/main/ESP32/micropython)
-4. [Filtrado Analógico y Digital](https://github.com/delozath/FAyD) (este repositorio se encuentra en actualización por lo que podría tener cambios futuros)
+1. [Filtrado Analógico y Digital](https://github.com/delozath/FAyD) (este repositorio se encuentra en actualización por lo que podría tener cambios futuros)
+
+1. [Introducción a la programación](https://github.com/delozath/programacion)
+    - [Programación en C](https://github.com/delozath/programacion/tree/main/C)
+    - [Introducción a python/jupyter](#)
+    - [Introducción a python/script](#)
+
 
 ---
 ## Latex
