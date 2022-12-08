@@ -15,20 +15,20 @@ Los repositorios de esta sección son privados, favor de escribir para solicitar
 
 ---
 ## Cursos Licenciatura
-1. [Secuenciadores y Microprocesadores](https://github.com/delozath/symp) (este repositorio se encuentra en actualización por lo que podría tener cambios futuros)
+1. [Secuenciadores y Microprocesadores](../../../symp)
     - [MSP430/C]
     - [ESP32/C]
     - [ESP32/micropython]
-1. [Interfaces Programables](https://github.com/delozath/interfaces_programables)
-    - [ESP32/micropython](https://github.com/delozath/interfaces_programables/tree/main/ESP32/micropython)
-1. [Filtrado Analógico y Digital](https://github.com/delozath/FAyD) (este repositorio se encuentra en actualización por lo que podría tener cambios futuros)
+1. [Interfaces Programables](../../../interfaces_programables)
+    - [ESP32/micropython](../../../interfaces_programables/tree/main/ESP32/micropython)
+1. [Filtrado Analógico y Digital](../../../FAyD) (este repositorio se encuentra en actualización por lo que podría tener cambios futuros)
 
-1. [Introducción a la programación](https://github.com/delozath/programacion)
-    - [Programación en C](https://github.com/delozath/programacion/tree/main/C)
+1. [Introducción a la programación](../../../programacion)
+    - [Programación en C](../../../programacion_c)
     - [Introducción a python/jupyter](#)
     - [Introducción a python/script](#)
 
-1. [Recursos Python](https://github.com/delozath/python)
+1. [Recursos Python](../../../python)
 ---
 ## Latex
-1. [Plantilla tesis/protocolo de investigación](https://github.com/delozath/plantilla_tesis_uam)
+1. [Plantilla tesis/protocolo de investigación](../../../plantilla_tesis_uam)
