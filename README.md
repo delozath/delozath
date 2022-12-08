@@ -28,7 +28,7 @@ Los repositorios de esta sección son privados, favor de escribir para solicitar
     - [Introducción a python/jupyter](#)
     - [Introducción a python/script](#)
 
-
+1. [Recursos Python](https://github.com/delozath/python)
 ---
 ## Latex
 1. [Plantilla tesis/protocolo de investigación](https://github.com/delozath/plantilla_tesis_uam)
