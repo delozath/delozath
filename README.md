@@ -19,9 +19,9 @@ Los repositorios de esta sección son privados, favor de escribir para solicitar
     - [MSP430/C]
     - [ESP32/C]
     - [ESP32/micropython]
-1. [Interfaces Programables](../../../interfaces_programables)
-    - [ESP32/micropython](../../../interfaces_programables/tree/main/ESP32/micropython)
-1. [Filtrado Analógico y Digital](../../../FAyD) (este repositorio se encuentra en actualización por lo que podría tener cambios futuros)
+1. [Interfaces Programables](../../../ip)
+    - [ESP32/micropython](../../../ip/tree/main/ESP32/micropython)
+1. [Filtrado Analógico y Digital](../../../FAyD)
 
 1. [Introducción a la programación](../../../programacion)
     - [Programación en C](../../../programacion_c)
