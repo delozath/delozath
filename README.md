@@ -29,6 +29,14 @@ Los repositorios de esta sección son privados, favor de escribir para solicitar
     - [Introducción a python/script](#)
 
 1. [Recursos Python](../../../python)
+
+---
+## Talleres/Workshops
+
+Aqui se acumula un histórico de los talleres, los repositorios se están reorganizando; posiblemente haya algunas fuentes/notebooks obsoletas. A partir de estas fuentes se creará una serie de talleres actualizados.
+
+1. [Machine Learning notebooks](../../../workshops)
+
 ---
 ## Latex
 1. [Plantilla tesis/protocolo de investigación](../../../plantilla_tesis_uam)
