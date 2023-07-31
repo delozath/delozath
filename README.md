@@ -15,22 +15,6 @@ Los repositorios de esta sección son privados, favor de escribir para solicitar
 
 ---
 ## Cursos Licenciatura
-1. [Sistemas digitales](../../../sistemas_digitales)
-    * [Secuenciadores y Microprocesadores](../../../sistemas_digitales/tree/main/symp)
-        - [MSP430/C]
-        - [ESP32/C]
-        - [ESP32/micropython]
-    * [Interfaces Programables](../../../sistemas_digitales/tree/main/ip)
-        - [ESP32/micropython](../../../sistemas_digitales/tree/main/ip/ESP32/micropython)
-1. [Señales y Sistemas](../../../senales_sistemas)
-    * [Filtrado Analógico y Digital](../../../senales_sistemas)
-
-1. [Introducción a la programación](../../../programacion)
-    - [Programación en C](../../../programacion_c)
-    - [Introducción a python/jupyter](#)
-    - [Introducción a python/script](#)
-
-1. [Recursos Python](../../../python)
 
 ---
 ## Talleres/Workshops
