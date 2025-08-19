@@ -12,9 +12,9 @@ Los repositorios de esta sección son privados, favor de escribir para solicitar
 **Colaboración**
 1. Procesamiento de los datos y análisis estadístico del artículo [Ultra-Processed Food Consumption during Pregnancy and Its Association with Maternal Oxidative Stress Markers](https://doi.org/10.3390/antiox11071415)
 
-
 ---
-## Cursos Licenciatura
+## Tools
+1. [pynaptics](./pynaptics) is a collection of lightweight Python scripts|snippets that can solve several atomic tasks such. pynaptics contains utilities that support, but don’t belong to my core research projects in machine learning, embedded AI, and medical applications.
 
 ---
 ## Talleres/Workshops
