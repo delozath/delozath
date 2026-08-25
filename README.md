@@ -57,16 +57,10 @@ Markdown companion note with the paper's metadata and abstract.
 
 Utilities and smaller projects will be listed here as they are added.
 
-#### [Project name][project-name]
+#### [pdf-to-md-automation](https://github.com/delozath/pdf-to-md-automation)
 
-_Short project description._
+pdf-to-md-automation is a command-line tool for batch-converting PDF documents into Markdown using [Marker](https://github.com/datalab-to/marker). It handles single files, entire folders, or PDFs organized in per-reference subdirectories, generating for each document a Markdown file, Marker's structural JSON, and extracted images. Built to turn personal paper/document collections into archives that are easy to search, version, and feed into other tools.
 
-- Status: _Project status_
-
-
-[dendrotype]: DENDROTYPE_GITHUB_URL
-[nomnema]: NOMNEMA_GITHUB_URL
-[project-name]: PROJECT_GITHUB_URL
 
 ---
 ## Tools
